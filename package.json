@@ -9,7 +9,6 @@
   "private": false,
   "dependencies": {
     "@octokit/rest": "^16.3.0",
-    "commander": "^2.19.0",
-    "inquirer": "^6.2.1"
+    "commander": "^2.19.0"
   }
 }
